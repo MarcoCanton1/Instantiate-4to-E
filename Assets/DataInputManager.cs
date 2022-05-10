@@ -23,4 +23,7 @@ public class DataInputManager : MonoBehaviour
             Debug.LogError("Invalid Input : empty");
         }
     }
+
+    public void 
+
 }
