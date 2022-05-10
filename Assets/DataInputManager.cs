@@ -24,6 +24,5 @@ public class DataInputManager : MonoBehaviour
         }
     }
 
-    public void 
 
 }
